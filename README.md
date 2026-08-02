@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Suryansh703/leetcode/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Suryansh703/leetcode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -38,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Suryansh703/leetcode/tree/master/0486-predict-the-winner) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Suryansh703/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Suryansh703/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Suryansh703/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Suryansh703/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
