@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Suryansh703/leetcode/tree/master/0200-number-of-islands) |
+| [3310-remove-methods-from-project](https://github.com/Suryansh703/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Suryansh703/leetcode/tree/master/0200-number-of-islands) |
+| [3310-remove-methods-from-project](https://github.com/Suryansh703/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Suryansh703/leetcode/tree/master/3731-find-missing-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Suryansh703/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
